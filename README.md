@@ -1,21 +1,6 @@
-### Hi there 👋
-### Hi there
-
-
-
-###
-
-<!--
-**ayushiarya/ayushiarya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there !!
+## This is Ayushi. I'm from Jamshepdur, India. Ever since I was a kid, I loved to understand the mechanics behind things. Be it dismantling a toycar to discover a top, reading encyclopedia sets cover to cover or trying to understand the mechanics behind a hummingbird flying. I always knew I was meant to engineer things.
+## I am a 2020 Graduate from BITS Pilani-Hyderabad Campus, Electrical Engineering Department. I am interested in learning and understanding new problems and giving my best efforts to solve them.
+- 🔭 I’m currently working on: Improving my logical thinking and problem solving skills. 
+- 🌱 I’m currently learning: Things ranging from astronomy to react.js , whatever keeps me hooked. 
+- 📫 How to reach me: Email- ayushiarya8@gmail.com
